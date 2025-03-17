@@ -11,4 +11,4 @@ PineAI is a AI designed to do what ai is designed to do.
 - **Routing Fixed**: HashRouter implementation  
 - **Tea with Crumpets & Tea with Rusk**: The classic debate, solved  
 ![crumpets](assets/crumpets.jpg)
-![Rusk](assets/rusk.webp)
+![Rusk](assets/rusk.png)
